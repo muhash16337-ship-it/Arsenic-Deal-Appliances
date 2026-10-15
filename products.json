@@ -1,0 +1,421 @@
+{
+  "business": "Arsenic Deal Appliances",
+  "whatsapp": "254703789777",
+  "currency": "KSh",
+  "categories": [
+    {
+      "slug": "fridges-freezers",
+      "name": "Fridges & Freezers"
+    },
+    {
+      "slug": "cookers-microwaves",
+      "name": "Cookers & Microwaves"
+    },
+    {
+      "slug": "small-kitchen",
+      "name": "Small Kitchen Appliances & Cookware"
+    },
+    {
+      "slug": "tvs",
+      "name": "Televisions"
+    },
+    {
+      "slug": "home-theatre-audio",
+      "name": "Home Theatre & Audio"
+    },
+    {
+      "slug": "water-dispensers",
+      "name": "Water Dispensers"
+    },
+    {
+      "slug": "laundry-home-care",
+      "name": "Laundry & Home Care"
+    },
+    {
+      "slug": "fans-heating",
+      "name": "Fans & Heating"
+    },
+    {
+      "slug": "furniture-home",
+      "name": "Furniture & Home Storage"
+    }
+  ],
+  "products": [
+    {
+      "id": "roch-single-door-refrigerator",
+      "name": "Roch Single-Door Refrigerator",
+      "price": 16500,
+      "category": "Fridges & Freezers",
+      "categorySlug": "fridges-freezers",
+      "image": "images/fridges-freezers/roch-single-door-refrigerator.jpg"
+    },
+    {
+      "id": "ecomax-138l-double-door-fridge",
+      "name": "Ecomax 138L Double-Door Fridge",
+      "price": 26000,
+      "category": "Fridges & Freezers",
+      "categorySlug": "fridges-freezers",
+      "image": "images/fridges-freezers/ecomax-138l-double-door-fridge.jpg"
+    },
+    {
+      "id": "skyworth-158l-double-door-refrigerator",
+      "name": "Skyworth 158L Double-Door Refrigerator",
+      "price": 29500,
+      "category": "Fridges & Freezers",
+      "categorySlug": "fridges-freezers",
+      "image": "images/fridges-freezers/skyworth-158l-double-door-refrigerator.jpg"
+    },
+    {
+      "id": "von-175l-refrigerator",
+      "name": "Von 175L Refrigerator",
+      "price": 32000,
+      "category": "Fridges & Freezers",
+      "categorySlug": "fridges-freezers",
+      "image": "images/fridges-freezers/von-175l-refrigerator.jpg"
+    },
+    {
+      "id": "von-198l-freezer",
+      "name": "Von 198L Freezer",
+      "price": 33000,
+      "category": "Fridges & Freezers",
+      "categorySlug": "fridges-freezers",
+      "image": "images/fridges-freezers/von-198l-freezer.jpg"
+    },
+    {
+      "id": "nunix-all-gas-cooker-50x60",
+      "name": "Nunix All-Gas Cooker 50x60",
+      "price": 15500,
+      "category": "Cookers & Microwaves",
+      "categorySlug": "cookers-microwaves",
+      "image": "images/cookers-microwaves/nunix-all-gas-cooker-50x60.jpg"
+    },
+    {
+      "id": "4-burner-gas-cooker-with-oven",
+      "name": "4-Burner Gas Cooker with Oven",
+      "price": 19000,
+      "category": "Cookers & Microwaves",
+      "categorySlug": "cookers-microwaves",
+      "image": "images/cookers-microwaves/4-burner-gas-cooker-with-oven.jpg"
+    },
+    {
+      "id": "sayona-50x55-cooker",
+      "name": "Sayona 50x55 Cooker",
+      "price": 21000,
+      "category": "Cookers & Microwaves",
+      "categorySlug": "cookers-microwaves",
+      "image": "images/cookers-microwaves/sayona-50x55-cooker.jpg"
+    },
+    {
+      "id": "sylnix-gas-cooker-with-oven",
+      "name": "Sylnix Gas Cooker with Oven",
+      "price": 21000,
+      "category": "Cookers & Microwaves",
+      "categorySlug": "cookers-microwaves",
+      "image": "images/cookers-microwaves/sylnix-gas-cooker-with-oven.jpg"
+    },
+    {
+      "id": "euroken-60x65-cooker",
+      "name": "Euroken 60x65 Cooker",
+      "price": 22000,
+      "category": "Cookers & Microwaves",
+      "categorySlug": "cookers-microwaves",
+      "image": "images/cookers-microwaves/euroken-60x65-cooker.jpg"
+    },
+    {
+      "id": "roch-20l-microwave-oven",
+      "name": "Roch 20L Microwave Oven",
+      "price": 8500,
+      "category": "Cookers & Microwaves",
+      "categorySlug": "cookers-microwaves",
+      "image": "images/cookers-microwaves/roch-20l-microwave-oven.jpg"
+    },
+    {
+      "id": "nunix-popcorn-maker-rh-588",
+      "name": "Nunix Popcorn Maker RH-588",
+      "price": 2000,
+      "category": "Small Kitchen Appliances & Cookware",
+      "categorySlug": "small-kitchen",
+      "image": "images/small-kitchen/nunix-popcorn-maker-rh-588.jpg"
+    },
+    {
+      "id": "ailyons-blender",
+      "name": "Ailyons Blender",
+      "price": 2500,
+      "category": "Small Kitchen Appliances & Cookware",
+      "categorySlug": "small-kitchen",
+      "image": "images/small-kitchen/ailyons-blender.jpg"
+    },
+    {
+      "id": "ramton-kettle",
+      "name": "Ramton Kettle",
+      "price": 2800,
+      "category": "Small Kitchen Appliances & Cookware",
+      "categorySlug": "small-kitchen",
+      "image": "images/small-kitchen/ramton-kettle.jpg"
+    },
+    {
+      "id": "ailyons-heavy-duty-blender-set",
+      "name": "Ailyons Heavy-Duty Blender Set",
+      "price": 3800,
+      "category": "Small Kitchen Appliances & Cookware",
+      "categorySlug": "small-kitchen",
+      "image": "images/small-kitchen/ailyons-heavy-duty-blender-set.jpg"
+    },
+    {
+      "id": "chips-fryer",
+      "name": "Chips Fryer",
+      "price": 4500,
+      "category": "Small Kitchen Appliances & Cookware",
+      "categorySlug": "small-kitchen",
+      "image": "images/small-kitchen/chips-fryer.jpg"
+    },
+    {
+      "id": "6l-air-fryer",
+      "name": "6L Air Fryer",
+      "price": 5500,
+      "category": "Small Kitchen Appliances & Cookware",
+      "categorySlug": "small-kitchen",
+      "image": "images/small-kitchen/6l-air-fryer.jpg"
+    },
+    {
+      "id": "golden-hotpot",
+      "name": "Golden Hotpot",
+      "price": 5500,
+      "category": "Small Kitchen Appliances & Cookware",
+      "categorySlug": "small-kitchen",
+      "image": "images/small-kitchen/golden-hotpot.jpg"
+    },
+    {
+      "id": "imported-popcorn-maker",
+      "name": "Imported Popcorn Maker",
+      "price": 12500,
+      "category": "Small Kitchen Appliances & Cookware",
+      "categorySlug": "small-kitchen",
+      "image": "images/small-kitchen/imported-popcorn-maker.jpg"
+    },
+    {
+      "id": "matrix-stainless-steel-hot-pot-set",
+      "name": "Matrix Stainless Steel Hot Pot Set",
+      "price": null,
+      "category": "Small Kitchen Appliances & Cookware",
+      "categorySlug": "small-kitchen",
+      "image": "images/small-kitchen/matrix-stainless-steel-hot-pot-set.jpg"
+    },
+    {
+      "id": "vitron-32-smart-tv",
+      "name": "Vitron 32\" Smart TV",
+      "price": 12499,
+      "category": "Televisions",
+      "categorySlug": "tvs",
+      "image": "images/tvs/vitron-32-smart-tv.jpg"
+    },
+    {
+      "id": "vitron-40-tv",
+      "name": "Vitron 40\" TV",
+      "price": 17500,
+      "category": "Televisions",
+      "categorySlug": "tvs",
+      "image": "images/tvs/vitron-40-tv.jpg"
+    },
+    {
+      "id": "hisense-43-tv",
+      "name": "Hisense 43\" TV",
+      "price": 25500,
+      "category": "Televisions",
+      "categorySlug": "tvs",
+      "image": "images/tvs/hisense-43-tv.jpg"
+    },
+    {
+      "id": "globalstar-55-android-tv",
+      "name": "Globalstar 55\" Android TV",
+      "price": 38000,
+      "category": "Televisions",
+      "categorySlug": "tvs",
+      "image": "images/tvs/globalstar-55-android-tv.jpg"
+    },
+    {
+      "id": "vitron-65-webos-tv",
+      "name": "Vitron 65\" webOS TV",
+      "price": 66000,
+      "category": "Televisions",
+      "categorySlug": "tvs",
+      "image": "images/tvs/vitron-65-webos-tv.jpg"
+    },
+    {
+      "id": "amtec-am-318-3-1-home-theatre",
+      "name": "Amtec AM-318 3.1 Home Theatre",
+      "price": 5500,
+      "category": "Home Theatre & Audio",
+      "categorySlug": "home-theatre-audio",
+      "image": "images/home-theatre-audio/amtec-am-318-3-1-home-theatre.jpg"
+    },
+    {
+      "id": "v610-3-1-home-theatre",
+      "name": "V610 3.1 Home Theatre",
+      "price": 5500,
+      "category": "Home Theatre & Audio",
+      "categorySlug": "home-theatre-audio",
+      "image": "images/home-theatre-audio/v610-3-1-home-theatre.jpg"
+    },
+    {
+      "id": "nunix-5-1-home-theatre",
+      "name": "Nunix 5.1 Home Theatre",
+      "price": 14500,
+      "category": "Home Theatre & Audio",
+      "categorySlug": "home-theatre-audio",
+      "image": "images/home-theatre-audio/nunix-5-1-home-theatre.jpg"
+    },
+    {
+      "id": "soundstar-hd-1983-soundbar",
+      "name": "Soundstar HD-1983 Soundbar",
+      "price": null,
+      "category": "Home Theatre & Audio",
+      "categorySlug": "home-theatre-audio",
+      "image": "images/home-theatre-audio/soundstar-hd-1983-soundbar.jpg"
+    },
+    {
+      "id": "sonar-b5c-hot-cold-dispenser",
+      "name": "Sonar B5C Hot & Cold Dispenser",
+      "price": 4200,
+      "category": "Water Dispensers",
+      "categorySlug": "water-dispensers",
+      "image": "images/water-dispensers/sonar-b5c-hot-cold-dispenser.jpg"
+    },
+    {
+      "id": "nunix-z8c-hot-cold-dispenser",
+      "name": "Nunix Z8C Hot & Cold Dispenser",
+      "price": 8000,
+      "category": "Water Dispensers",
+      "categorySlug": "water-dispensers",
+      "image": "images/water-dispensers/nunix-z8c-hot-cold-dispenser.jpg"
+    },
+    {
+      "id": "alyon-bottom-load-dispenser",
+      "name": "Alyon Bottom-Load Dispenser",
+      "price": 8000,
+      "category": "Water Dispensers",
+      "categorySlug": "water-dispensers",
+      "image": "images/water-dispensers/alyon-bottom-load-dispenser.jpg"
+    },
+    {
+      "id": "nunix-z199c-hot-cold-dispenser",
+      "name": "Nunix Z199C Hot & Cold Dispenser",
+      "price": null,
+      "category": "Water Dispensers",
+      "categorySlug": "water-dispensers",
+      "image": "images/water-dispensers/nunix-z199c-hot-cold-dispenser.jpg"
+    },
+    {
+      "id": "ironing-board",
+      "name": "Ironing Board",
+      "price": 3800,
+      "category": "Laundry & Home Care",
+      "categorySlug": "laundry-home-care",
+      "image": "images/laundry-home-care/ironing-board.jpg"
+    },
+    {
+      "id": "mika-8kg-inverter-washing-machine",
+      "name": "Mika 8kg Inverter Washing Machine",
+      "price": 46000,
+      "category": "Laundry & Home Care",
+      "categorySlug": "laundry-home-care",
+      "image": "images/laundry-home-care/mika-washing-machines.jpg"
+    },
+    {
+      "id": "mika-10kg-inverter-washing-machine",
+      "name": "Mika 10kg Inverter Washing Machine",
+      "price": 62000,
+      "category": "Laundry & Home Care",
+      "categorySlug": "laundry-home-care",
+      "image": "images/laundry-home-care/mika-washing-machines.jpg"
+    },
+    {
+      "id": "ceiling-fan",
+      "name": "Ceiling Fan",
+      "price": 3200,
+      "category": "Fans & Heating",
+      "categorySlug": "fans-heating",
+      "image": "images/fans-heating/ceiling-fan.jpg"
+    },
+    {
+      "id": "nunix-room-heater",
+      "name": "Nunix Room Heater",
+      "price": 3500,
+      "category": "Fans & Heating",
+      "categorySlug": "fans-heating",
+      "image": "images/fans-heating/nunix-room-heater.jpg"
+    },
+    {
+      "id": "nunix-3-column-wardrobe-88130",
+      "name": "Nunix 3-Column Wardrobe 88130",
+      "price": 3500,
+      "category": "Furniture & Home Storage",
+      "categorySlug": "furniture-home",
+      "image": "images/furniture-home/nunix-3-column-wardrobe-88130.jpg"
+    },
+    {
+      "id": "glass-coffee-table",
+      "name": "Glass Coffee Table",
+      "price": 4900,
+      "category": "Furniture & Home Storage",
+      "categorySlug": "furniture-home",
+      "image": "images/furniture-home/glass-coffee-table.jpg"
+    },
+    {
+      "id": "2-piece-nesting-coffee-tables",
+      "name": "2-Piece Nesting Coffee Tables",
+      "price": 6000,
+      "category": "Furniture & Home Storage",
+      "categorySlug": "furniture-home",
+      "image": "images/furniture-home/2-piece-nesting-coffee-tables.jpg"
+    },
+    {
+      "id": "metallic-fruit-rack",
+      "name": "Metallic Fruit Rack",
+      "price": 6000,
+      "category": "Furniture & Home Storage",
+      "categorySlug": "furniture-home",
+      "image": "images/furniture-home/metallic-fruit-rack.jpg"
+    },
+    {
+      "id": "marble-effect-coffee-table",
+      "name": "Marble-Effect Coffee Table",
+      "price": 6500,
+      "category": "Furniture & Home Storage",
+      "categorySlug": "furniture-home",
+      "image": "images/furniture-home/marble-effect-coffee-table.jpg"
+    },
+    {
+      "id": "pure-marble-table-big-size",
+      "name": "Pure Marble Table (Big Size)",
+      "price": 9000,
+      "category": "Furniture & Home Storage",
+      "categorySlug": "furniture-home",
+      "image": "images/furniture-home/pure-marble-table-big-size.jpg"
+    },
+    {
+      "id": "2-in-1-marble-nesting-tables",
+      "name": "2-in-1 Marble Nesting Tables",
+      "price": 9000,
+      "category": "Furniture & Home Storage",
+      "categorySlug": "furniture-home",
+      "image": "images/furniture-home/2-in-1-marble-nesting-tables.jpg"
+    },
+    {
+      "id": "premium-tv-stand",
+      "name": "Premium TV Stand",
+      "price": 12500,
+      "category": "Furniture & Home Storage",
+      "categorySlug": "furniture-home",
+      "image": "images/furniture-home/premium-tv-stand.jpg"
+    },
+    {
+      "id": "4-seater-dining-table",
+      "name": "4-Seater Dining Table",
+      "price": 18500,
+      "category": "Furniture & Home Storage",
+      "categorySlug": "furniture-home",
+      "image": "images/furniture-home/4-seater-dining-table.jpg"
+    }
+  ]
+}
